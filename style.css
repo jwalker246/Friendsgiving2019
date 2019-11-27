@@ -18,6 +18,19 @@ html {
 	justify-content: center;
 }
 
+.titleline {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.lineitem {
+	flex: 1;
+	padding: 1rem;
+}
+
+
+
 h1 {
 	text-align:center;
 	font-weight: bold;
